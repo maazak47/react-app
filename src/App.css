@@ -1,0 +1,38 @@
+.header{
+  height: 30vh;
+  width: 100%;
+  background-color: blue;
+  color: white;
+  display: flex;
+}
+.lefthead{
+  background-color: brown;
+  height: 30vh;
+  width: 50%;
+  position: absolute;
+
+}
+.body{
+  background-color: bisque;
+  height: 40vh;
+  width: 100%;
+  display: flex;
+  position: relative;
+}
+
+.leftbody{
+  background-color: green;
+  height: 40vh;
+  width: 30%;
+ position: relative;
+ right: 30px;  
+  
+}
+
+.midbody{
+  background-color: pink;
+  height: 40vh;
+  width: 40%;
+  
+  
+}
